@@ -1,2 +1,2 @@
 # Slow-is-fast
-Algorithm Study
+Algorithm Study in SSAFY
